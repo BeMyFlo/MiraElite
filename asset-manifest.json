@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MiraElite/static/css/main.dc4dee46.css",
-    "main.js": "/MiraElite/static/js/main.e2e880ff.js",
+    "main.js": "/MiraElite/static/js/main.950b5cc7.js",
     "static/media/gentleman-slider.png": "/MiraElite/static/media/gentleman-slider.02f0a99f18263244dfec.png",
     "static/media/aboutus.png": "/MiraElite/static/media/aboutus.3bc756775e3b09a20adc.png",
     "static/media/bootstrap.min.css.map": "/MiraElite/static/media/bootstrap.min.css.74d57d76f88c7a50a30b.map",
@@ -24,10 +24,10 @@
     "static/media/fa-v4compatibility.woff2": "/MiraElite/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/MiraElite/index.html",
     "main.dc4dee46.css.map": "/MiraElite/static/css/main.dc4dee46.css.map",
-    "main.e2e880ff.js.map": "/MiraElite/static/js/main.e2e880ff.js.map"
+    "main.950b5cc7.js.map": "/MiraElite/static/js/main.950b5cc7.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4dee46.css",
-    "static/js/main.e2e880ff.js"
+    "static/js/main.950b5cc7.js"
   ]
 }
