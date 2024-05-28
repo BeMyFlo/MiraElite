@@ -14,6 +14,13 @@ import './css/font-icons.min.css';
 import './css/responsive.css';
 import './css/style.css';
 import './css/theme-vendors.min.css';
+import Slider from '../components/slider';
+import Introduce from '../components/introduce';
+import Benefits from '../components/benefits';
+import Projects from '../components/projects';
+import AboutUs from '../components/about_us';
+import Team from '../components/team';
+import Footer from '../components/footer';
 function App() {
   return (
     <BrowserRouter> {/* Wrap the entire application with BrowserRouter */}
