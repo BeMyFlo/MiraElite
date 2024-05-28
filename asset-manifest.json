@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MiraElite/static/css/main.dc4dee46.css",
+    "main.js": "/MiraElite/static/js/main.e2e880ff.js",
+    "static/media/gentleman-slider.png": "/MiraElite/static/media/gentleman-slider.02f0a99f18263244dfec.png",
+    "static/media/aboutus.png": "/MiraElite/static/media/aboutus.3bc756775e3b09a20adc.png",
+    "static/media/bootstrap.min.css.map": "/MiraElite/static/media/bootstrap.min.css.74d57d76f88c7a50a30b.map",
+    "static/media/fa-solid-900.ttf": "/MiraElite/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/themify.svg?-fvbane": "/MiraElite/static/media/themify.c4292f34297f1004471a.svg",
+    "static/media/fa-brands-400.ttf": "/MiraElite/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/et-line.svg": "/MiraElite/static/media/et-line.f1f6506cc9805acb27d7.svg",
+    "static/media/fa-solid-900.woff2": "/MiraElite/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/MiraElite/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/themify.eot": "/MiraElite/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/MiraElite/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/logo_mira.jpg": "/MiraElite/static/media/logo_mira.6edbbc3031de5d0c87ca.jpg",
+    "static/media/fa-regular-400.ttf": "/MiraElite/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/themify.woff?-fvbane": "/MiraElite/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/et-line.woff": "/MiraElite/static/media/et-line.d59b23856f66f9876c47.woff",
+    "static/media/et-line.eot": "/MiraElite/static/media/et-line.3f5eecf9f3326c4d6d81.eot",
+    "static/media/et-line.ttf": "/MiraElite/static/media/et-line.cc7129c849c81d254698.ttf",
+    "static/media/fa-regular-400.woff2": "/MiraElite/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/MiraElite/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MiraElite/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/MiraElite/index.html",
+    "main.dc4dee46.css.map": "/MiraElite/static/css/main.dc4dee46.css.map",
+    "main.e2e880ff.js.map": "/MiraElite/static/js/main.e2e880ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4dee46.css",
+    "static/js/main.e2e880ff.js"
+  ]
+}
