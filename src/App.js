@@ -21,6 +21,13 @@ function App() {
         {/* Component */}
         {/* <Navbar></Navbar> */}
         <Navigation></Navigation>
+        <Slider/>
+        <Introduce/>
+        <Benefits/>
+        <Projects/>
+        <AboutUs/>
+        <Team/>
+        <Footer/>
         {/* Route */}
         <Routes>  
             <Route path='/' element={<Home />} /> {/* Define your Route with the correct path and element */}
