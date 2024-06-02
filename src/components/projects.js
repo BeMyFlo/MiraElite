@@ -103,7 +103,7 @@ function Projects() {
                             </figure>
                         </div>
                     </div> 
-                    <div className="flex flex-row justify-content-center mt-10">
+                    <div className="flex flex-col md:flex-row justify-content-center">
                         <div className="col team-block text-start team-style-1 sm-margin-30px-bottom md-margin-50px-bottom wow animate__fadeInUp">
                             <figure>
                                 <div className="team-image sm-w-100">

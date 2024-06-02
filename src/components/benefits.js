@@ -3,7 +3,7 @@ import React from 'react';
 function Benefits() {
     return (
         <div className="sidebar-wrapper mobile-height">
-            <div className="wow animate__fadeIn lg-padding-two-lr md-no-padding-lr">
+            <div className="wow animate__fadeIn lg-padding-two-lr md-no-padding-lr p-5">
                 <div className="container">
                     <div className="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
                         <div className="col margin-six-bottom md-margin-50px-bottom sm-margin-40px-bottom wow animate__fadeInUp last-paragraph-no-margin">

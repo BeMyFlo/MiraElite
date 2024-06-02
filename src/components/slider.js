@@ -15,7 +15,7 @@ function Slider() {
                             <div class="separator-line-horrizontal-full w-80 margin-35px-tb md-margin-25px-tb sm-margin-20px-tb bg-extra-dark-gray mx-auto"></div>
                             <span class="text-dark-gray text-extra-large font-weight-300 margin-35px-bottom d-block md-margin-25px-bottom sm-margin-15px-bottom text-center">We're a design studio that believe in the power of great ideas.</span>
                             <div className='flex justify-center'>
-                            <a href="https://1.envato.market/g7jrr" target="_blank" rel="noopener noreferrer" className="bg-red-500 hover:bg-red-400 text-white font-semibold py-2 px-4 border border-gray-400 rounded shadow no-underline">Contact Now</a>
+                            <a href="https://1.envato.market/g7jrr" target="_blank" rel="noopener noreferrer" className="bg-red-500 hover:bg-red-400 text-white font-semibold py-2 px-4 rounded shadow no-underline">Contact Now</a>
                         </div>
                         </div>
 

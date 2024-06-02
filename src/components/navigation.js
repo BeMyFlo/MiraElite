@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import logo from '../images/logo_mira.jpg';
 import logo2x from '../images/logo_mira.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -19,30 +20,30 @@ const Navigation = () => {
             </div>
             <div className="col-12 px-0">
               <ul className="flex flex-col flex-grow space-y-7 mt-9">
-                  <li className="flex items-center justify-between mr-5">
-                      <a href="#" className="text-lg font-medium text-red-600 hover:underline no-underline">HOME</a>
-                      <FontAwesomeIcon className="text-red-500" icon={faAngleRight} />
-                  </li>
-                  <li className="flex items-center justify-between mr-5">
-                      <a href="#" className="text-lg font-medium text-black hover:underline no-underline">PAGES</a>
-                      <FontAwesomeIcon  icon={faAngleRight} />
-                  </li>
-                  <li className="flex items-center justify-between mr-5">
-                      <a href="#" className="text-lg font-medium text-black hover:underline no-underline">PORTFOLIO</a>
-                      <FontAwesomeIcon icon={faAngleRight} />
-                  </li>
-                  <li className="flex items-center justify-between mr-5">
-                      <a href="#" className="text-lg font-medium text-black hover:underline no-underline">BLOG</a>
-                      <FontAwesomeIcon icon={faAngleRight} />
-                  </li>
-                  <li className="flex items-center justify-between mr-5">
-                      <a href="#" className="text-lg font-medium text-black hover:underline no-underline">ELEMENTS</a>
-                      <FontAwesomeIcon icon={faAngleRight} />
-                  </li>
-                  <li className="flex items-center justify-between mr-5">
-                      <a href="#" className="text-lg font-medium text-black hover:underline no-underline">FEATURES</a>
-                      <FontAwesomeIcon icon={faAngleRight} />
-                  </li>
+                    <li className="flex items-center justify-between mr-5">
+                        <NavLink to="/" className={({ isActive }) => `text-lg font-medium hover:underline no-underline ${isActive ? 'text-red-600' : 'text-black'}`}>
+                            HOME
+                        </NavLink>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                    </li>
+                    <li className="flex items-center justify-between mr-5">
+                        <NavLink to="/services" className={({ isActive }) => `text-lg font-medium hover:underline no-underline ${isActive ? 'text-red-600' : 'text-black'}`}>
+                            SERVICES
+                        </NavLink>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                    </li>
+                    <li className="flex items-center justify-between mr-5">
+                        <NavLink to="/about-us" className={({ isActive }) => `text-lg font-medium hover:underline no-underline ${isActive ? 'text-red-600' : 'text-black'}`}>
+                            ABOUT US
+                        </NavLink>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                    </li>
+                    <li className="flex items-center justify-between mr-5">
+                        <NavLink to="/contact" className={({ isActive }) => `text-lg font-medium hover:underline no-underline ${isActive ? 'text-red-600' : 'text-black'}`}>
+                            CONTACT
+                        </NavLink>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                    </li>
               </ul>
             </div>
             <div className="col-12 position-absolute top-auto bottom-0 left-0 w-100 padding-20px-bottom sm-padding-15px-bottom">

@@ -5,15 +5,18 @@ import Projects from '../components/projects';
 import AboutUs from '../components/about_us';
 import Team from '../components/team';
 import Footer from '../components/footer';
+import Contact from '../components/contact';
+
 function Home() {
   return (
-    <div>
+    <div className='bg-slate-50'>
       <Slider/>
       <Introduce/>
       <Benefits/>
       <Projects/>
       <AboutUs/>
       <Team/>
+      <Contact/>
       <Footer/>
     </div>
   );
