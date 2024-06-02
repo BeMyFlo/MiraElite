@@ -4,7 +4,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import Brows
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import Home from './pages/Home';
 import Product from './pages/Product'; // Import the Product component
-import Navbar from './components/navbar';
 import Login from './pages/login';
 import Register from './pages/register';
 import Navigation from './components/navigation';import './css/bootsnav.css';

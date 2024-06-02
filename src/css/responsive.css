@@ -2688,6 +2688,7 @@
     .feature-box.feature-box-17 .box .content {top: 50px;}
 
     .sidebar-nav .logo-holder { min-height: 60px; }
+    .sidebar-nav .logo-holder img{ max-height: 40px; }
     nav.navbar.bootsnav.sidebar-nav li.dropdown ul.dropdown-menu { padding-top: 112px; }
     .nav.navbar-left-sidebar li a { padding: 17px 0; }
     .sidebar-part2 .sidebar-middle { padding: 90px 0 90px; }

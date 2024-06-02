@@ -13,7 +13,7 @@ function Projects() {
                             <p className="mx-auto mb-0">A lot of young players don't really know much about the history of the game and a lot of them are missing out on what the game is all about, especially the whole concept of sportsmanship and teamwork.</p>
                         </div> 
                     </div>
-                    <div className="flex flex-row justify-content-center">
+                    <div className="flex flex-col md:flex-row justify-content-center">
                         <div className="col team-block text-start team-style-1 sm-margin-30px-bottom md-margin-50px-bottom wow animate__fadeInUp">
                             <figure>
                                 <div className="team-image sm-w-100">

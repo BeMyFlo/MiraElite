@@ -12,7 +12,7 @@ const Navigation = () => {
             <div className="col-12 sidenav-header">
                 <div className="logo-holder">
                     <a href="index.html" className="d-inline-block logo">
-                        <img alt="Pofo" src={logo} srcSet={`${logo2x} 2x`} />
+                        <img className = 'max-w-sm: max-h-8' alt="Pofo" src={logo} srcSet={`${logo2x} 2x`} />
                     </a>
                 </div>
                 {/* end logo */}

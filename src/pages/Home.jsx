@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import Slider from '../components/slider';
 import Introduce from '../components/introduce';
 import Benefits from '../components/benefits';
